@@ -1,0 +1,8 @@
+{
+  "name": "yii2-gov",
+  "version": "1.0.0",
+  "author": "Márcio J",
+  "dependencies": {
+    "@govbr-ds/core": "^3.2.0"
+  }
+}
